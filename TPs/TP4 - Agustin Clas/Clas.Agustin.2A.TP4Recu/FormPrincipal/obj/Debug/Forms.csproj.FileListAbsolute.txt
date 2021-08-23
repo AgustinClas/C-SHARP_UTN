@@ -1,0 +1,82 @@
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Entidades.dll
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\SQL.dll
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Entidades.pdb
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\SQL.pdb
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Excepciones.dll
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Excepciones.pdb
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.Form2.resources
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Archivos.dll
+C:\Users\Ale\source\repos\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Archivos.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Archivos.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Entidades.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Excepciones.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\SQL.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Archivos.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Entidades.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Excepciones.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\SQL.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.Form2.resources
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Archivos.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Entidades.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Excepciones.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\SQL.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Archivos.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Entidades.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\Excepciones.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\bin\Debug\SQL.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.Form2.resources
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Ale\Desktop\tp_laboratorio_2\TP4- Agustin Clas\Clas.Agustin.2A.TP4\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\obj\Debug\FormPrincipal.Form2.resources
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\Archivos.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\Entidades.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\Excepciones.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\SQL.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\Archivos.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\Entidades.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\Excepciones.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\SQL.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\ClaseExtension.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\FormPrincipal\bin\Debug\ClaseExtension.pdb

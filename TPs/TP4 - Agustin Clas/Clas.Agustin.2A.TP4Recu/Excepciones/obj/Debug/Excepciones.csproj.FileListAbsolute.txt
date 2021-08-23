@@ -1,0 +1,6 @@
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache

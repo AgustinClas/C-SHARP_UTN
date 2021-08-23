@@ -1,0 +1,9 @@
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\ClaseExtension\bin\Debug\ClaseExtension.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\ClaseExtension\bin\Debug\ClaseExtension.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\ClaseExtension\bin\Debug\Excepciones.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\ClaseExtension\bin\Debug\Excepciones.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\ClaseExtension\obj\Debug\MetodoDeExtension.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\ClaseExtension\obj\Debug\MetodoDeExtension.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\ClaseExtension\obj\Debug\MetodoDeExtension.csproj.CopyComplete
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\ClaseExtension\obj\Debug\ClaseExtension.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\ClaseExtension\obj\Debug\ClaseExtension.pdb

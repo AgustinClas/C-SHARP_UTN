@@ -1,0 +1,26 @@
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Consola.exe
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Consola.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Archivos.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Clases Abstractas.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Clases Instanciables.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Excepciones.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\TestsUnitarios.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Archivos.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Clases Abstractas.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Clases Instanciables.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Excepciones.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\TestsUnitarios.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\obj\Debug\Consola.exe
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Consola\obj\Debug\Consola.pdb

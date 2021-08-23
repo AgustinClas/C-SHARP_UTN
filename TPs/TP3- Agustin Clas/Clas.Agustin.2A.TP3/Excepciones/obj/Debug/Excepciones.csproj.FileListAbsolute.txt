@@ -1,0 +1,6 @@
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Ale\Desktop\Clas.Agustin.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

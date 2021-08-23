@@ -1,0 +1,6 @@
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Archivos\bin\Debug\Archivos.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Archivos\obj\Debug\Archivos.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Archivos\obj\Debug\Archivos.pdb

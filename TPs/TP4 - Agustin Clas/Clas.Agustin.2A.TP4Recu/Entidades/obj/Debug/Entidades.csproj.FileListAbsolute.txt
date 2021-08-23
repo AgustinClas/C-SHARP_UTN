@@ -1,0 +1,6 @@
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Entidades\bin\Debug\Entidades.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Entidades\obj\Debug\Entidades.dll
+C:\Users\Ale\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP4\Clas.Agustin.2A.TP4Recu\Entidades\obj\Debug\Entidades.pdb
